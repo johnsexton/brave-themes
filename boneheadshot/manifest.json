@@ -52,29 +52,29 @@
 				255
 			],
 			"tab_background_text": [
-				0,
-				170,
-				255
+				233,
+				233,
+				233
 			],
 			"tab_background_text_inactive": [
-				0,
-				170,
-				255
+				233,
+				233,
+				233
 			],
 			"tab_background_text_incognito": [
-				0,
-				170,
-				255
+				233,
+				233,
+				233
 			],
 			"tab_background_text_incognito_inactive": [
-				0,
-				170,
-				255
+				233,
+				233,
+				233
 			],
 			"tab_text": [
-				0,
-				170,
-				255
+				233,
+				233,
+				233
 			],
 			"toolbar": [
 				17,
