@@ -1,0 +1,101 @@
+{
+	"manifest_version": 2,
+	"name": "JOHNSEXTONMEDIA Theme for Brave",
+	"description": "A custom theme created for John Sexton's personal use.",
+	"version": "1.0",
+	"author": "John Sexton (johnsextonmedia.com)",
+	"theme": {
+		"colors": {
+			"frame": [
+				0,
+				170,
+				255
+			],
+			"frame_inactive": [
+				0,
+				170,
+				255
+			],
+			"frame_incognito": [
+				0,
+				170,
+				255
+			],
+			"frame_incognito_inactive": [
+				0,
+				170,
+				255
+			],
+			"background_tab": [
+				0,
+				170,
+				255
+			],
+			"background_tab_inactive": [
+				0,
+				170,
+				255
+			],
+			"background_tab_incognito": [
+				0,
+				170,
+				255
+			],
+			"background_tab_incognito_inactive": [
+				0,
+				170,
+				255
+			],
+			"bookmark_text": [
+				34,
+				34,
+				34
+			],
+			"tab_background_text": [
+				34,
+				34,
+				34
+			],
+			"tab_background_text_inactive": [
+				34,
+				34,
+				34
+			],
+			"tab_background_text_incognito": [
+				34,
+				34,
+				34
+			],
+			"tab_background_text_incognito_inactive": [
+				34,
+				34,
+				34
+			],
+			"tab_text": [
+				34,
+				34,
+				34
+			],
+			"toolbar": [
+				239,
+				239,
+				239
+			],
+			"toolbar_button_icon": [
+				34,
+				34,
+				34
+			],
+			"omnibox_text": [
+				34,
+				34,
+				34
+			],
+			"omnibox_background": [
+				233,
+				233,
+				233
+			]
+		}
+	}
+}
