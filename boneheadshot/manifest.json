@@ -6,96 +6,24 @@
 	"author": "Jamsheed Mistri (jmistri.com)",
 	"theme": {
 		"colors": {
-			"frame": [
-				17,
-				17,
-				17
-			],
-			"frame_inactive": [
-				17,
-				17,
-				17
-			],
-			"frame_incognito": [
-				17,
-				17,
-				17
-			],
-			"frame_incognito_inactive": [
-				17,
-				17,
-				17
-			],
-			"background_tab": [
-				51,
-				51,
-				51
-			],
-			"background_tab_inactive": [
-				51,
-				51,
-				51
-			],
-			"background_tab_incognito": [
-				51,
-				51,
-				51
-			],
-			"background_tab_incognito_inactive": [
-				51,
-				51,
-				51
-			],
-			"bookmark_text": [
-				0,
-				170,
-				255
-			],
-			"tab_background_text": [
-				233,
-				233,
-				233
-			],
-			"tab_background_text_inactive": [
-				233,
-				233,
-				233
-			],
-			"tab_background_text_incognito": [
-				233,
-				233,
-				233
-			],
-			"tab_background_text_incognito_inactive": [
-				233,
-				233,
-				233
-			],
-			"tab_text": [
-				233,
-				233,
-				233
-			],
-			"toolbar": [
-				17,
-				17,
-				17
-			],
-			"toolbar_button_icon": [
-				0,
-				170,
-				255
-			],
-			"omnibox_text": [
-				34,
-				34,
-				34
-			],
-			"omnibox_background": [
-				233,
-				233,
-				233
-			]
+			"frame": [17, 17, 17],
+			"frame_inactive": [17, 17, 17],
+			"frame_incognito": [17, 17, 17],
+			"frame_incognito_inactive": [17, 17, 17],
+			"background_tab": [51, 51, 51],
+			"background_tab_inactive": [51, 51, 51],
+			"background_tab_incognito": [51, 51, 51],
+			"background_tab_incognito_inactive": [51, 51, 51],
+			"bookmark_text": [0, 170, 255],
+			"tab_background_text": [233, 233, 233],
+			"tab_background_text_inactive": [233, 233, 233],
+			"tab_background_text_incognito": [233, 233, 233],
+			"tab_background_text_incognito_inactive": [233, 233, 233],
+			"tab_text": [233, 233, 233],
+			"toolbar": [17, 17, 17],
+			"toolbar_button_icon": [0, 170, 255],
+			"omnibox_text": [0, 170, 255],
+			"omnibox_background": [51, 51, 51]
 		}
 	}
 }
