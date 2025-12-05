@@ -6,96 +6,24 @@
 	"author": "John Sexton (johnsextonmedia.com)",
 	"theme": {
 		"colors": {
-			"frame": [
-				3,
-				83,
-				158
-			],
-			"frame_inactive": [
-				3,
-				83,
-				158
-			],
-			"frame_incognito": [
-				3,
-				83,
-				158
-			],
-			"frame_incognito_inactive": [
-				3,
-				83,
-				158
-			],
-			"background_tab": [
-				3,
-				83,
-				158
-			],
-			"background_tab_inactive": [
-				3,
-				83,
-				158
-			],
-			"background_tab_incognito": [
-				3,
-				83,
-				158
-			],
-			"background_tab_incognito_inactive": [
-				3,
-				83,
-				158
-			],
-			"bookmark_text": [
-				233,
-				233,
-				233
-			],
-			"tab_background_text": [
-				233,
-				233,
-				233
-			],
-			"tab_background_text_inactive": [
-				233,
-				233,
-				233
-			],
-			"tab_background_text_incognito": [
-				233,
-				233,
-				233
-			],
-			"tab_background_text_incognito_inactive": [
-				233,
-				233,
-				233
-			],
-			"tab_text": [
-				233,
-				233,
-				233
-			],
-			"toolbar": [
-				28,
-				43,
-				87
-			],
-			"toolbar_button_icon": [
-				233,
-				233,
-				233
-			],
-			"omnibox_text": [
-				3,
-				83,
-				158
-			],
-			"omnibox_background": [
-				233,
-				233,
-				233
-			]
+			"frame": [3, 83, 158], 
+			"frame_inactive": [3, 83, 158],
+			"frame_incognito": [3, 83, 158],
+			"frame_incognito_inactive": [3, 83, 158],
+			"background_tab": [3, 83, 158],
+			"background_tab_inactive": [3, 83, 158],
+			"background_tab_incognito": [3, 83, 158],
+			"background_tab_incognito_inactive": [3, 83, 158],
+			"bookmark_text": [233, 233, 233],
+			"tab_background_text": [233, 233, 233],
+			"tab_background_text_inactive": [233, 233, 233],
+			"tab_background_text_incognito": [233, 233, 233],
+			"tab_background_text_incognito_inactive": [233, 233, 233],
+			"tab_text": [233, 233, 233],
+			"toolbar": [28, 43, 87],
+			"toolbar_button_icon": [233, 233, 233],
+			"omnibox_text": [3, 83, 158],
+			"omnibox_background": [233, 233, 233]
 		}
 	}
 }
